@@ -9,12 +9,12 @@ const perguntas = [
         enunciado: "Você tem um fim de semana totalmente livre. O que prefere fazer?",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                texto: "Viajar para um lugar novo, explorar, experimentar comidas diferentes e conhecer novas pessoas.",
+                afirmacao: "Você é aventureiro(a), curioso(a) e busca constantemente novas experiências. Gosta de sair da rotina e se sente energizado(a) por ambientes dinâmicos e cheios de novidade. Provavelmente valoriza liberdade, espontaneidade e é sociável."
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                texto:  "Ficar em casa, maratonar uma série, ler um bom livro ou curtir um tempo tranquilo sozinho ou com poucos amigos.",
+                afirmacao: "Você valoriza o conforto, a estabilidade e momentos de introspecção. Prefere qualidade à quantidade nas relações e costuma ser mais reservado(a). Ambientes tranquilos e seguros te ajudam a recarregar as energias."
             }    
            
         ]
