@@ -35,17 +35,17 @@ const perguntas = [
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "Em um grupo de trabalho, qual papel você costuma assumir naturalmente?",
 
             alternativas: [
                 {
-                    texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    texto: "Gosto de liderar, tomar decisões e organizar o time.",
+                    afirmacao: "Você se destaca pela capacidade de tomar iniciativa, assumir responsabilidades e enxergar o todo. Tem uma mente estratégica e facilidade em influenciar e motivar pessoas. Consegue tomar decisões sob pressão e gosta de estruturar processos e direcionar a equipe. É confiante, ambicioso e naturalmente assume a frente em projetos. Seu desafio pode ser escutar mais e dividir o controle, mas sua presença é inspiradora e mobilizadora."
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:    "Prefiro ficar nos bastidores, executando bem minhas tarefas.",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: "Você é alguém prático, eficiente e comprometido. Gosta de ter clareza sobre seu papel e executa suas funções com excelência. É discreto, constante e confiável, preferindo evitar conflitos ou exposições desnecessárias. Seu foco está em entregar resultados de qualidade. Embora não busque liderar, sua contribuição é essencial para o sucesso coletivo. Seu ponto de atenção pode ser reconhecer mais o próprio valor e expressar suas ideias."
                 }    
                
             ]
