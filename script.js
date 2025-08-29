@@ -21,15 +21,15 @@ const perguntas = [
     },
     {
        
-            enunciado: "As fontes renováveis de energia são aquelas formas de produção de energia em que suas fontes são capazes de manter-se disponíveis durante um longo prazo, contando com recursos que se regeneram ou que se mantêm ativos permanentemente. Com base nisso, temos a energia geotérmica, que consiste em utilizar o calor manifestado em áreas próximas à superfície. Qual a sua opinião sobre esse modelo de energia renovável?",
+            enunciado: "Se você ganhasse um ano sabático com todas as despesas pagas, o que você faria com esse tempo?",
             alternativas: [
                 {
-                    texto: "A energia geotérmica precisa ser mais explorada visto que utiliza o calor interno da terra, pois não depende do clima e é inesgotável.",
-                    afirmacao: "Você demonstra um perfil  de pesquisador e inovador que busca por meio da inovação soluções para o meio ambiente e sustentabilidade das gerações posteriores."
+                    texto: "Viajaria o mundo para conhecer novas culturas e pessoas.",
+                    afirmacao: "Você é movido por experiências, descobertas e contato com o novo. Tem uma mentalidade aberta e valoriza a diversidade cultural, a liberdade e o crescimento pessoal que vem de viver fora da zona de conforto. É alguém espontâneo, com facilidade de adaptação e interesse genuíno por pessoas e histórias. Costuma aprender mais com vivências do que com teorias. Seu desafio pode ser manter foco em objetivos de longo prazo, mas sua flexibilidade e criatividade são grandes forças."
                 },
                 {
-                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    texto:  "Aproveitaria para estudar, fazer cursos e me especializar.",
+                    afirmacao: "Você tem um forte desejo de evoluir, aprender e conquistar metas pessoais e profissionais. É disciplinado, determinado e gosta de usar o tempo de forma produtiva. Enxerga o conhecimento como ferramenta de transformação. Prefere ambientes estruturados e metas bem definidas. Seu foco e comprometimento fazem de você alguém confiável e competente, embora, às vezes, possa se cobrar demais ou esquecer de descansar."
                 }    
                
             ]
